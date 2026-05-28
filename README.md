@@ -1,40 +1,38 @@
 # Hi, I'm Ruben 👋
 
-I work with ERP systems, production data, and operational workflows — turning messy industrial processes into structured systems that actually work.
+ERP + SQL + Production Systems Engineer
 
-Most of my work sits between ERP (Sage X3), SQL, and production planning in real manufacturing environments.
+I build systems that turn ERP data into reliable production planning, validation, and operational workflows.
 
 ---
 
-## What I work on
+## Focus
 
 - ERP systems (Sage X3) in live production environments  
 - SQL-based production planning & decision systems  
 - BOM-driven manufacturing logic  
+- Multi-entity ERP data reconciliation  
 - Operational tooling & automation systems  
-- Data reconciliation in multi-company ERP setups  
 
 ---
 
-## What I've built
+## Impact
 
-- Reduced production planning from 3 days → 15 minutes using SQL + ERP integration  
-- Built BOM-based allocation systems that reduced production errors to near zero  
-- Supported ERP operations across multiple factories and companies (~50 users)  
-- Built inventory recovery and reconciliation systems in live ERP environments  
-- Developed internal automation and billing systems that reduced processing time from hours → minutes  
-
----
-
-## Tech
-
-SQL · Sage X3 · PHP · MySQL · Excel + ODBC · Systems Design · Data Modeling
+- Reduced production planning from 3 days → 15 minutes (SQL + ERP integration)
+- Built BOM-driven allocation systems reducing production errors to near zero
+- Supported ERP operations across multi-company environments (~50 users)
+- Built inventory reconciliation systems in live ERP environments
+- Developed automation systems reducing processing time from hours → minutes  
 
 ---
 
-## Engineering notes
+## Stack
 
-A collection of real-world ERP and systems work:
+SQL · Sage X3 · PHP · MySQL · Excel + ODBC · Systems Design
+
+---
+
+## Engineering Notes
 
 https://dev.randomt.pt
 
@@ -42,4 +40,4 @@ https://dev.randomt.pt
 
 ## Background
 
-MSc in Industrial Engineering and Management — Instituto Superior Técnico
+MSc Industrial Engineering — Instituto Superior Técnico
